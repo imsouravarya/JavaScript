@@ -11,3 +11,4 @@ let name = "John";
 const pi = 3.14;
 
 Note: Avoid using var in modern JavaScript.
+                     
