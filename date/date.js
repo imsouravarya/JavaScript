@@ -8,5 +8,9 @@ console.log(myDate.getMonth());
 
 
 
+//get date in string interpolation
+let aa = new Date()
+console.log(`the current date is ${aa.getDay()}`)
 
 
+                                                                                               
