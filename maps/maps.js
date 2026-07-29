@@ -26,3 +26,13 @@ for (const [key, value] of map) {
 }
 
 
+//chaining
+
+const aplha = [1,2,3,4,5,6,7,8,9,10]
+
+
+const siri = aplha.map((si) => { return si*10})
+                    .map((si)=> {return si+80})
+
+console.log(siri);
+
